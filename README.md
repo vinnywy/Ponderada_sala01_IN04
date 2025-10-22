@@ -29,10 +29,22 @@ A constante de tempo (τ) é crucial para definir a velocidade de resposta do ci
 ## 2. Diagramas e Imagens
 
 ### 2.1. Simulação / Diagrama Elétrico (Tinkercad)
-*(Insira aqui o print do Tinkercad ou do diagrama do circuito - Exemplo: image_1add97.png ou image_1a1281.png)*
+
+<div align="center">
+    <strong style="font-size: 18px;"><sub>Tinkercad</sub></strong><br>
+<img src="image.png" width="90%"
+    alt="Esquemático Elétrico"><br>
+    <sup>Fonte: Desenvolvido Manualmente</sup>
+  </div>
 
 ### 2.2. Protótipo Físico (Opcional)
-*(Insira aqui a foto do protótipo físico montado na protoboard)*
+
+<div align="center">
+    <strong style="font-size: 18px;"><sub>Circuito Físico</sub></strong><br>
+<img src="2.jpg" width="90%"
+    alt="Esquemático Elétrico"><br>
+    <sup>Fonte: Desenvolvido Manualmente</sup>
+  </div>
 
 ---
 
@@ -202,13 +214,28 @@ plt.show()
 ### 5.2. Prints dos Gráficos Gerados
 
 Gráfico 1: Tensão de Carga no Capacitor (VC)
-(Insira aqui o print do gráfico 1 - Curva azul ascendente que se estabiliza em 5V)
+<div align="center">
+    <strong style="font-size: 18px;"><sub>Tensão de Carga no Capacitor</sub></strong><br>
+<img src="assets/C.jpg" width="90%"
+    alt="Esquemático Elétrico"><br>
+    <sup>Fonte: Desenvolvido com Python</sup>
+  </div>
 
 Gráfico 2: Tensão no Resistor (VR) durante a Carga
-(Insira aqui o print do gráfico 2 - Curva vermelha descendente que se aproxima de 0V)
+<div align="center">
+    <strong style="font-size: 18px;"><sub>Tensão no Resistor</sub></strong><br>
+<img src="assets/R.jpg" width="90%"
+    alt="Esquemático Elétrico"><br>
+    <sup>Fonte: Desenvolvido com Python</sup>
+  </div>
 
 Gráfico 3: Comparação Carga RC - VC e VR
-(Insira aqui o print do gráfico 3 - Comparação VC vs VR)
+<div align="center">
+    <strong style="font-size: 18px;"><sub>Comparação de Carga</sub></strong><br>
+<img src="assets/CR.jpg" width="90%"
+    alt="Esquemático Elétrico"><br>
+    <sup>Fonte: Desenvolvido com Python</sup>
+  </div>
 
 ## 6. Análise Final
 
